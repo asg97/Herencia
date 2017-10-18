@@ -11,6 +11,7 @@ package modelo;
  */
 public class Razas {
 
+ //hola   
     private String nombre;
     private int num_victorias;
     private double nivel_ataque;
